@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:test-memmory/test-memmory.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:test-selector/test-selector.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ThreadPra/ThreadPra.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:car-parts/car-parts.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:second-objectc-example/second-objectc-example.xcodeproj">
    </FileRef>
    <FileRef
